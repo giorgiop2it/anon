@@ -113,7 +113,7 @@ def main():
             st.markdown(f"<span style='background-color:{color}; padding:4px; border-radius:4px;'>{category}</span>", unsafe_allow_html=True)
     
     # Input testo
-    text = st.text_area("Inserisci il testo da processare (max 800 caratteri):", height=200, max_chars=800)
+    text = st.text_area("Inserisci il testo da processare (max 1000 caratteri):", height=200, max_chars=1000)
     
     if st.button("Elabora"):
         if text.strip():
