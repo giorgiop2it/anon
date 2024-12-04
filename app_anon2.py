@@ -25,7 +25,7 @@ ENTITY_COLORS = {
     "IP": "#CCCCFF",
     "ORARIO": "#9999FF",
     "URL": "#6666FF",
-    "LUOGO": "#3333FF",
+    "LUOGO": "#CCCCFF",
     "IMPORTO": "#0000FF",
     "EMAIL": "#FFCC99",
     "PASSWORD": "#FF9966",
@@ -52,8 +52,8 @@ ENTITY_COLORS = {
     "LEGGE": "#CCCCCC",
     "TASSO_MUTUO": "#999999",
     "N_SENTENZA": "#666666",
-    "MAPPALE": "#333333",
-    "SUBALTERNO": "#000000",
+    "MAPPALE": "#FFCCFF",
+    "SUBALTERNO": "#33FFF",
 }
 
 # Funzione per evidenziare il testo con colori
